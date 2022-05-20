@@ -11,19 +11,17 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/shomiller2
-  - icon: graduation-cap
+  - icon: inspire
     icon_pack: ai
     link: https://inspirehep.net/author/profile/S.Homiller.1
-  - display:
-      header: false
-    link: https://orcid.org/0000-0002-0063-6856
+  - icon: orcid
     icon_pack: ai
-    icon: orcid
-  - display:
+    link: https://orcid.org/0000-0002-0063-6856
+  - icon: arxiv
+    icon_pack: ai
+    display:
       header: false
     link: https://arxiv.org/search/?query=Homiller&searchtype=all
-    icon_pack: ai
-    icon: arxiv
   - icon: github
     icon_pack: fab
     link: https://github.com/shomiller
