@@ -22,8 +22,8 @@ social:
   - display:
       header: false
     link: https://arxiv.org/search/?query=Homiller&searchtype=all
-    icon_pack: ai
-    icon: graduation-cap
+    icon_pack: academicons
+    icon: arxiv
   - icon: github
     icon_pack: fab
     link: https://github.com/shomiller
