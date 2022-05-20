@@ -40,9 +40,9 @@ email: shomiller@gmail.com
 superuser: true
 highlight_name: true
 ---
-I am a Post-Doctoral Fellow in the High Energy Theory Group at Harvard University, working in the group of Professor Matthew Reece on various topics in High Energy Theroy and Particle Phenomenology. 
+I am a Post-Doctoral Fellow in the <a href=https://hetg.physics.harvard.edu>High Energy Theory Group</a> at Harvard University, working under Professor <a href=http://users.physics.harvard.edu/~mreece/>Matthew Reece</a> on various topics in High Energy Theory and Particle Phenomenology. 
 
-Prior to joining the group at Harvard, I obtained my Ph.D. as part of the C. N. Yang Institute for Theoretical Physics (YITP) at Stony Brook University, working with Professor Patrick Meade. My dissertation was awarded the J. J. and Noriko Sakurai Dissertation Award in Theoretical Particle Physics in 2021. I also spent some time as a visitor at Brookhaven National Laboratory working with Sally Dawson as part of the DOE SCGSR (Graduate Student Research) Program. I did my undergraduate work at the University of Illinois, Urbana-Champaign where I graduated in 2015 with a B.S. in Physics and a B.S. in Mathematics.
+Prior to joining the group at Harvard, I obtained my Ph.D. as part of the  <a href=http://insti.physics.sunysb.edu>C. N. Yang Institute for Theoretical Physics (YITP)</a> at Stony Brook University, working with Professor <a href=http://insti.physics.sunysb.edu/~meade>Patrick Meade</a>. My dissertation was awarded the J. J. and Noriko Sakurai Dissertation Award in Theoretical Particle Physics in 2021. I also spent some time as a visitor at Brookhaven National Laboratory working with Sally Dawson as part of the DOE SCGSR (Graduate Student Research) Program. I did my undergraduate work at the University of Illinois, Urbana-Champaign where I graduated in 2015 with a B.S. in Physics and a B.S. in Mathematics.
 
-More details can be found in my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}}, or see more information about my publications at {{< icon name="inspire" pack="ai" >}} {{< href="https://inspirehep.net/author/profile/S.Homiller.1" "newtab" >}}Inspire-HEP{{< /href >}}.
+More details can be found in my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}}, or see more information about my publications at {{< icon name="inspire" pack="ai" >}} <a href=https://inspirehep.net/author/profile/S.Homiller.1>Inspire</a>.
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
