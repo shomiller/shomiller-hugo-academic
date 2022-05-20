@@ -18,11 +18,11 @@ social:
       header: false
     link: https://orcid.org/0000-0002-0063-6856
     icon_pack: ai
-    icon: graduation-cap
+    icon: orcid
   - display:
       header: false
     link: https://arxiv.org/search/?query=Homiller&searchtype=all
-    icon_pack: academicons
+    icon_pack: ai
     icon: arxiv
   - icon: github
     icon_pack: fab
@@ -46,4 +46,4 @@ I am a Post-Doctoral Fellow in the High Energy Theory Group at Harvard Universit
 
 Prior to joining the group at Harvard, I obtained my Ph.D. as part of the C. N. Yang Institute for Theoretical Physics (YITP) at Stony Brook University, working with Professor Patrick Meade. My dissertation was awarded the J. J. and Noriko Sakurai Dissertation Award in Theoretical Particle Physics in 2021. I also spent some time as a visitor at Brookhaven National Laboratory working with Sally Dawson as part of the DOE SCGSR (Graduate Student Research) Program. I did my undergraduate work at the University of Illinois, Urbana-Champaign where I graduated in 2015 with a B.S. in Physics and a B.S. in Mathematics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
