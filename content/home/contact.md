@@ -14,17 +14,13 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-
-  # Email form provider
-  email_form: 2
   
   # Contact details (edit or remove options as required)
   email: shomiller@g.harvard.edu
 # phone: 888 888 88 88
-  address:
-    street: Department of Physics, Harvard University
-    street: 17 Oxford St
-    city: Cambridge
+  address: 
+    street: Department of Physics<br>Harvard University<br>17 Oxford St<br>Cambridge
+#    city: <br>Cambridge
     region: MA
     postcode: '02138'
     country: United States
