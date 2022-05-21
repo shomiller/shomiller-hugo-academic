@@ -33,7 +33,7 @@ content:
       align: right
       background:
         position: center
-        color: '#555'
+        color: '#666'
         brightness: 0.7
       link:
         icon: graduation-cap
@@ -45,7 +45,7 @@ content:
       content: 
       background:
         position: left
-        color: '#555'
+        color: '#666'
         brightness: 0.7
       link:
         icon: graduation-cap
@@ -57,7 +57,7 @@ content:
       align: right
       background:
         position: center
-        color: '#555'
+        color: '#666'
         brightness: 0.7
       link:
         icon: graduation-cap
@@ -78,19 +78,4 @@ content:
         text: INSPIRE
         url: https://inspirehep.net/author/profile/S.Homiller.1
               
-
-        
-#    - title: World-Class Semiconductor Lab
-#      content: 'Just opened last month!'
-#      align: right
-#      background:
-#        position: center
-#        color: '#333'
-#        brightness: 0.5
-#        media: bubblechamber.jpg
-#      link:
-#        icon: graduation-cap
-#        icon_pack: fas
-#        text: Join Us
-#        url: ../post/mu-collider
 ---

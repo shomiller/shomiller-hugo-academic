@@ -7,14 +7,14 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 70 
 
 title: 'Featured Talks'
 subtitle:
 
 content:
   # Page type to display. E.g. post, event, publication...
-  page_type: event
+  page_type: talk 
   # Choose how many pages you would like to display (0 = all pages)
   count: 5
   # Filter on criteria
@@ -39,3 +39,5 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+A full list of talks I have given can be found in my <a href="files/cv.pdf">CV</a>
